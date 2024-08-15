@@ -1,6 +1,6 @@
 relativeURLs = true
 title = "Maghfira Ramadhani"
-theme = "academimal"
+theme = "academimal-theme"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]

@@ -2,4 +2,4 @@ Welcome to my personal website! You can call me Afi. I am a PhD student at Georg
 
 My research interests are in energy and environmental economics and applied microeconomics.
 
-__[Curriculum Vitae](/pdf/cv_Afi.pdf")__ 
+__[Curriculum Vitae](/pdf/cv_Afi.pdf)__ 
