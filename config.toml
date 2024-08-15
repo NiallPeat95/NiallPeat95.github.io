@@ -1,5 +1,5 @@
 relativeURLs = true
-title = "Gautam Rao"
+title = "Maghfira Ramadhani"
 theme = "academimal"
 sectionPagesMenu = "main"
 defaultContentLanguage = "en"
@@ -7,5 +7,5 @@ ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
 [params]
     shortbio = "PhD Candidate, Georgia Institute of Technology"
-    logo = "Rao_headshot.jpg" 
+    logo = "Afi_headshot.jpg" 
     
