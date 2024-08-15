@@ -1,4 +1,2 @@
 To sign up for office hours with me, use this link:
-https://calendly.com/raogautam
-
-Office Hours are restricted to my current PhD or MBA students or research advisees. If you don't fit that description, please email me for permission to sign up. 
+[Book a time with me](https://outlook.office.com/bookwithme/user/951a0a27d4b04de1960b5a3481e0d4cf@gatech.edu/meetingtype/t9eSIZ7dVUSyzF4QUMPTgA2?anonymous&ep=mLinkFromTile)
