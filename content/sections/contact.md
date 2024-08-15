@@ -1,5 +1,5 @@
 __Email__: [maghfira.ramadhani@gatech.edu](mailto:maghfira.ramadhani@gatech.edu)  
-__Phone__: +1-404-610-6287  
+__GitHub__: [maghfiraer](https://github.com/maghfiraer)  
 __Address__:  
 Economics PhD Office, Room 140  
 Old Civil Engineering Building  
