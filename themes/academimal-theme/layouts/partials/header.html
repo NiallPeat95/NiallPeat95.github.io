@@ -27,7 +27,7 @@
                 <p class="contactinfo">
                 <img src="{{ "/icons/mail-symbol.svg" | relURL }}" class="octicons">
                 <!-- mailaddr@domain.edu-->
-                    {{ partial "mail.html" . }}
+                    {{ .Site.Params.email }}
                 </p>
                 <!-- */}} -->
 
