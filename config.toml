@@ -8,6 +8,7 @@ ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 [params]
     shortbio = "PhD Candidate, Georgia Institute of Technology"
     logo = "Afi_headshot.jpg" 
+    email = "[maghfira.ramadhani@gatech.edu](mailto:maghfira.ramadhani@gatech.edu)"
 
 [services]
   [services.googleAnalytics]
