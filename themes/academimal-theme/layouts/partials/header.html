@@ -13,27 +13,25 @@
             <header>
                 <h1>{{ .Site.Title }}</h1>
 
-                <!-- begin photo -->
-                {{ with .Site.Params.logo }}
-                <img src="{{ . | relURL }}" alt="Logo" />
-                {{ end }}
-                <!-- end photo -->
-
                 <!-- begin short bio -->
                 <p>{{ .Site.Params.shortbio }}</p>
                 <!-- end short bio -->
 
-                <!-- {{/* -->
+                {{/*
                 <p class="contactinfo">
                 <img src="{{ "/icons/mail-symbol.svg" | relURL }}" class="octicons">
-                <!-- mailaddr@domain.edu-->
-                    {{ partial "mail.html" . }}
+                mailaddr@domain.edu
                 </p>
-                <!-- */}} -->
+                */}}
 
                 <hr/>
 
                 {{ partial "sidebar.html" . }} 
 
+                <!-- begin photo -->
+                {{ with .Site.Params.logo }}
+                <img src="{{ . | relURL }}" alt="Logo" />
+                {{ end }}
+                <!-- end photo -->
 
             </header>
