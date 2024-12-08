@@ -1,4 +1,4 @@
-Welcome to my personal website! You can call me Afi. I am a PhD student at Georgia Institute of Technology, [School of Economics](https://econ.gatech.edu).
+Welcome to my personal website! I am a PhD student at Georgia Institute of Technology, [School of Economics](https://econ.gatech.edu).
 
 My research interests are energy and environmental economics, applied microeconomics, and empirical industrial organization. My existing work focuses on how households and firms respond to the broad impact of climate change and the energy transition.
 
