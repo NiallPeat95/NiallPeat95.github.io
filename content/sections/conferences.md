@@ -1,4 +1,4 @@
-**2025**: Empirical Methods in Energy Economics Workshop (Washington, DC) [Scheduled]
+**2025**: Empirical Methods in Energy Economics Workshop (Washington, DC)
 
 **2024**: Southeastern Workshop on Energy & Environmental Economics & Policy (Atlanta, GA), CU Environmental and Resource Economics Workshop (Vail, CO), Georgia Tech Energy Policy and Innovation Center (EPICenter) (Atlanta, GA)
 
