@@ -43,3 +43,6 @@ works:
 
 Everything in the data files are optional, except the title. So you may have an article without abstract and links, and another one without note and PDF link.
 
+### Update workflow version if needed
+
+Refer to [this discussion](https://discourse.gohugo.io/t/build-failed-because-it-uses-a-deprecated-version-of-actions-upload-artifact-v3/53335)
