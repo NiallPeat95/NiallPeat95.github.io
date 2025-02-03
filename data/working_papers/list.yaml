@@ -1,1 +1,7 @@
-a
+works:
+
+- title: "Managing Intermittent Renewable Energy: Review and Synthesis of the Engineering, Economics, and Policy."
+  coauthors: "Daniel Matisoff, Matthew Oliver, Santiago Grijalva, Oliver Chapman, and Amanda West"
+  book: "Submitted"
+  abstract: >
+    The integration of renewable generation such as solar and wind is crucial to achieving decarbonization objectives. This paper provides a survey of engineering, economics, and policy challenges associated with this integration, focusing primarily on generation intermittency. From the engineering perspective, we describe challenges in the operation and planning stages of electric power systems faced with increasing renewable penetration. We review the economic challenges for restructured electricity markets posed by the dual problems of zero-marginal-cost generation and intermittency. We highlight important implications for energy policies designed to promote growth and spur innovation in the renewable energy sector. Of crucial importance is that the engineering, economic, and policy aspects of managing intermittent renewable energy cannot be decoupled---these challenges are inexorably linked. Hence, we present a synthesis describing how these three fields must work together to understand the key interactions that will make the transition to a low-carbon energy landscape a success.
