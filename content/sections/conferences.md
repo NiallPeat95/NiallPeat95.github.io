@@ -1,4 +1,4 @@
-**2025**: Georgia Tech CRIDC (Atlanta, GA), Empirical Methods in Energy Economics Workshop (Washington, DC)
+**2025**: SEA (Tampa, FL) [Scheduled], AERE Summer (Albuquerque, NM) [Scheduled], Georgia Tech CRIDC (Atlanta, GA), Empirical Methods in Energy Economics Workshop (Washington, DC)
 
 **2024**: Southeastern Workshop on Energy & Environmental Economics & Policy (Atlanta, GA), CU Environmental and Resource Economics Workshop (Vail, CO), Georgia Tech Energy Policy and Innovation Center (EPICenter) (Atlanta, GA)
 
