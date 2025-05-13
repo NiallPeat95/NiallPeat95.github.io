@@ -1,10 +1,9 @@
-Welcome to my personal website! I am a PhD student at Georgia Institute of Technology, [School of Economics](https://econ.gatech.edu).
+I am a PhD student in economics at Emory University, [School of Economics](https://economics.emory.edu).
 
-My research interests are energy and environmental economics, applied microeconomics, and empirical industrial organization. My existing work focuses on how households and firms respond to the broad impact of climate change and the energy transition.
+My research interests are in quantitative macroeconomics, international trade and spatial economics. 
 
-Before starting my PhD, I worked as an academic professional at [Institute of Technology Bandung](https://www.itb.ac.id/?n=1728695487) and as an expert consultant for various energy and environmental policy think tanks in Indonesia.
+I joined Emory from Australia having graduated with a bachelor of economics from the University of Adelaide. Before Emory I worked at public policy institutions in Australia including central banking at the RBA and industry policy analysis at the Australian Treasury.
 
-__[CV](/pdf/cv_Afi.pdf)__ (Updated March 2025)
+__[CV](/pdf/Nialls_CV.pdf)__ (Updated March 2025)
 
-__[My Google Scholar](https://scholar.google.com/citations?user=bpN8RCUAAAAJ)__\
-__[My GitHub](https://github.com/maghfiraer)__ 
+__[My GitHub](https://github.com/NiallPeat95)__ 
