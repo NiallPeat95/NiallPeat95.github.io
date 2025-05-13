@@ -1,2 +1,2 @@
-__Email__: [niall.peat@emory.edu](mailto:niall.peat@emory.edu)\
+__Email__: [niall.peat@emory.edu](mailto:niall.peat@emory.edu)
 
