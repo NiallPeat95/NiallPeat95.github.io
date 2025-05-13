@@ -1,4 +1,4 @@
-I am a third year PhD student in economics at Emory University, [School of Economics](https://economics.emory.edu).
+I am a third year PhD student in economics at [Emory University](https://economics.emory.edu).
 
 My research interests are in quantitative macroeconomics, international trade and spatial economics. 
 
