@@ -1,6 +1,3 @@
-**2025**: AERE@SEA (Tampa, FL) [Scheduled], AERE Summer Conference (Albuquerque, NM) [Scheduled], Georgia Tech CRIDC (Atlanta, GA), Empirical Methods in Energy Economics Workshop (Washington, DC)
+**2025**: Applied Macroeconomic Workshop (Emory University), Atlanta Workshop on International Economics (Atlanta Fed)
 
-**2024**: Southeastern Workshop on Energy & Environmental Economics & Policy (Atlanta, GA), CU Environmental and Resource Economics Workshop (Vail, CO), Georgia Tech Energy Policy and Innovation Center (EPICenter) (Atlanta, GA)
-
-**2022**: South East Asia Energy Transition Partnership - Roundtables Executive Training, Australian National University (Virtual)
-
+**2024**: Firm Dynamics and the Macroeconomy (Atlanta Fed), Business Cycle Fluctuations: The Labor Market
