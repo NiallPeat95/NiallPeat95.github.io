@@ -12,7 +12,6 @@ ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
   [services.googleAnalytics]
     ID = 'G-LG3FT0FV6E'
 
-
 [menu]
 
   [[menu.main]]
