@@ -1,7 +1,6 @@
 relativeURLs = true
 title = "Niall Peat"
 theme = "academimal-theme"
-sectionPagesMenu = "main"
 defaultContentLanguage = "en"
 ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 
@@ -12,3 +11,28 @@ ignorefiles = [ "hugo_travis_ci", ".travis.yml" ]
 [services]
   [services.googleAnalytics]
     ID = 'G-LG3FT0FV6E'
+
+
+[menu]
+
+  [[menu.main]]
+  name = "About"
+  url = "/sections/aboutme/"
+  weight = 1
+
+    [[menu.main]]
+  name = "Contact"
+  url = "/sections/contact/"
+  weight = 2
+
+  [[menu.main]]
+  name = "Conferences Attended"
+  url = "/sections/conferences/"
+  weight = 3
+
+  [[menu.main]]
+  name = "Miscellaneous"
+  url = "/sections/personal/"
+  weight = 4
+
+
