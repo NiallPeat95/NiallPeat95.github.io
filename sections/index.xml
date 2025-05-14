@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sections on Niall Peat</title>
+    <link>/sections/</link>
+    <description>Recent content in Sections on Niall Peat</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="/sections/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/sections/aboutme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/sections/aboutme/</guid>
+      <description>&lt;p&gt;I am a third year PhD student in economics at &lt;a href=&#34;https://economics.emory.edu&#34;&gt;Emory University&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;My research interests are in quantitative macroeconomics, international trade and spatial economics.&lt;/p&gt;&#xA;&lt;p&gt;I joined Emory from Australia having graduated with a bachelor of economics from the University of Adelaide. Before Emory I worked at public policy institutions in Australia including central banking at the RBA and industry policy analysis at the Australian Treasury.&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;../pdf/Nialls_CV.pdf&#34;&gt;CV&lt;/a&gt;&lt;/strong&gt; (Updated March 2025)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/NiallPeat95&#34;&gt;My GitHub&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>/sections/conferences/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/sections/conferences/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;2025&lt;/strong&gt;: Applied Macroeconomic Workshop (Emory University), Atlanta Workshop on International Economics (Atlanta Fed)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;2024&lt;/strong&gt;: Firm Dynamics and the Macroeconomy (Atlanta Fed), Business Cycle Fluctuations: The Labor Market&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>/sections/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/sections/contact/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Email&lt;/strong&gt;: &lt;a href=&#34;mailto:niall.peat@emory.edu&#34;&gt;niall.peat@emory.edu&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>/sections/from-another-life/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/sections/from-another-life/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>/sections/personal/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/sections/personal/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Website&lt;/strong&gt;: This website is adapted from Maghfira Ramadhani&amp;rsquo;s and Gautam Gao&amp;rsquo;s website&amp;rsquo;s, Gautam Gao&amp;rsquo;s website is available at his &lt;a href=&#34;https://github.com/gautamrao/gautamrao.github.io&#34;&gt;Github&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>/sections/teach/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/sections/teach/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
