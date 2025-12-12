@@ -4,6 +4,6 @@ My research interests are in quantitative macroeconomics, international trade an
 
 I joined Emory from Australia having graduated with a Bachelor of Economics from the University of Adelaide. Before Emory I worked at public policy institutions in Australia including central banking at the RBA and industry policy analysis at the Australian Treasury.
 
-__[CV](/pdf/Nialls_CV.pdf)__ (Updated March 2025)
+__[CV](/pdf/Nialls_CV.pdf)__ (Updated December 2025)
 
 __[My GitHub](https://github.com/NiallPeat95)__ 
